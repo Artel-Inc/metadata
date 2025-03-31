@@ -8,7 +8,7 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,LQFP-48_7x7mm_P0.5mm,0,0,-90
 ,SOT-223-3_TabPin2,0,0,-180
 ,SOIC-16W_7.5x10.3mm_P1.27mm,0,0,-90
-,SOT-23-?,0,0,-90
+,SOT-23-6,0,0,-90
 ,SOIC-8_3.9x4.9mm_P1.27mm,0,0,-90
 ,Potentiometer_Bourns_3224W_Vertical,0,0,-180
 ,QSOP-16_3.9x4.9mm_P0.635mm,0,0,-90
@@ -40,3 +40,4 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,Buzzer_12x9.5RM7.6,0,-3.8,0
 ,DRD16E04,-2.54,-3.81,0
 ,MSK12C02,0.5,0,0
+,SOT-323_SC-70,0,0,-180
