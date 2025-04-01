@@ -41,3 +41,9 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,DRD16E04,-2.54,-3.81,0
 ,MSK12C02,0.5,0,0
 ,SOT-323_SC-70,0,0,-180
+,VSSOP-10_3x3mm_P0.5mm,0,0,-90
+,Texas_PWP0020A,0,0,-90
+,TDSON-8-1,0,0,-90
+,JUSHUO_AFC07-S10ECC-00_1x10-1MP_P0.50mm_Horizontal,0,0,-180
+,IDC-Header_2x10_P2.54mm_Horizontal,-1.27,11.43,90
+,Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal,0,3,180
