@@ -48,3 +48,8 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,IDC-Header_2x10_P2.54mm_Horizontal,-1.27,11.43,90
 ,Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal,0,3,180
 ,SOT-23-3,0,0,-180
+,Infineon_PG-HSOF-8-1,-1,1.8,-90
+,SIP-4,0,-3.81,0
+,AMASS_XT60-M_1x02_P7.20mm_Vertical,0,-3.6,0
+,AMASS_XT60-F_1x02_P7.20mm_Vertical,0,-3.6,0
+
