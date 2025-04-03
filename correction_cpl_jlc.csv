@@ -54,4 +54,4 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,AMASS_XT60-F_1x02_P7.20mm_Vertical,0,-3.6,0
 ,Transformer_Ethernet_Mentech_24,0,0,-90
 ,LQFP-128_14x20mm_P0.5mm,0,0,-90
-,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,-1.5,-2.54,-180
+,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1.27,-1.5,-180
