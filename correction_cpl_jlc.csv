@@ -44,7 +44,7 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,VSSOP-10_3x3mm_P0.5mm,0,0,-90
 ,Texas_PWP0020A,0,0,-90
 ,TDSON-8-1,0,0,-90
-,JUSHUO_AFC07-S10ECC-00_1x10-1MP_P0.50mm_Horizontal,0,0,-180
+,JUSHUO_AFC07-S10ECC-00_1x10-1MP_P0.50mm_Horizontal,-0.4,0,-180
 ,IDC-Header_2x10_P2.54mm_Horizontal,-1.27,11.43,90
 ,Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal,0,3,180
 ,SOT-23-3,0,0,-180
@@ -55,3 +55,8 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,Transformer_Ethernet_Mentech_24,0,0,-90
 ,LQFP-128_14x20mm_P0.5mm,0,0,-90
 ,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1.6,1.5,-180
+,Buzzer_FUET-9650B,0,0,-180
+,JUSHUO_AFC07-S50ECC-00_1x50-1MP_P0.5mm_Horizontal,-0.5,0,-180
+,TSSOP-20_4.4x6.5mm_P0.65mm,0,0,-90
+,SOIC-4_4.55x3.7mm_P2.54mm,0,0,180
+,PinSocket_2x25_P2.00mm_Vertical,-1,-24,-90
