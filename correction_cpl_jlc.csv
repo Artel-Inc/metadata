@@ -65,4 +65,4 @@ Designator,Package,Mid X,Mid Y,Rotation
 ,Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal,0,1.5,-180
 ,CP_Radial_D16.0mm_P7.50mm,0,-3.8,0
 ,PinSocket_2x05_P1.27mm_Vertical,-0.635,-2.54,-90
-,IDC-Header_2x04_P2.54mm_Vertical,1.27,-2.54,-90
+,IDC-Header_2x03_P2.54mm_Vertical,1.27,-2.54,-90
